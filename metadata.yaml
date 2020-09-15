@@ -1,0 +1,38 @@
+_repo: Mr-Meek-Plays-Polo_63130
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ingels, Graham
+    birthdate: 1915
+    deathdate: 1991
+    gutenberg_agent_id: '51934'
+    url: http://www.gutenberg.org/2009/agents/51934
+    wikipedia: https://en.wikipedia.org/wiki/Graham_Ingels
+creator:
+  author:
+    agent_name: Simak, Clifford D.
+    alias: Simak, Clifford Donald
+    birthdate: 1904
+    deathdate: 1988
+    gutenberg_agent_id: '25185'
+    url: http://www.gutenberg.org/2009/agents/25185
+    wikipedia: http://en.wikipedia.org/wiki/Clifford_D._Simak
+description: ''
+gutenberg_issued: '2020-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Asteroids -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Space travelers -- Fiction'
+- GITenberg
+title: Mr. Meek Plays Polo
+url: http://www.gutenberg.org/ebooks/63130
